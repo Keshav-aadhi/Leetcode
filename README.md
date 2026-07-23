@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Keshav-aadhi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Keshav-aadhi/Leetcode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Keshav-aadhi/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Keshav-aadhi/Leetcode/tree/master/0018-4sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Keshav-aadhi/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
