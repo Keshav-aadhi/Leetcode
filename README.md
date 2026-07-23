@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Keshav-aadhi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Keshav-aadhi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-aadhi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/Keshav-aadhi/Leetcode/tree/master/0071-simplify-path) |
 ## Trie
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav-aadhi/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Keshav-aadhi/Leetcode/tree/master/0071-simplify-path) |
 ## Linked List
 |  |
 | ------- |
