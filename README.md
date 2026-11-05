@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Keshav-aadhi/Leetcode/tree/master/0078-subsets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Keshav-aadhi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Keshav-aadhi/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1773-count-items-matching-a-rule](https://github.com/Keshav-aadhi/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Keshav-aadhi/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Keshav-aadhi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-aadhi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Keshav-aadhi/Leetcode/tree/master/0071-simplify-path) |
+| [1773-count-items-matching-a-rule](https://github.com/Keshav-aadhi/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Trie
 |  |
 | ------- |
