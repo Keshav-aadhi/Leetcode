@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Keshav-aadhi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Keshav-aadhi/Leetcode/tree/master/0078-subsets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Keshav-aadhi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Keshav-aadhi/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Keshav-aadhi/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
