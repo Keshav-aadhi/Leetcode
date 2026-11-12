@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Keshav-aadhi/Leetcode/tree/master/0048-rotate-image) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keshav-aadhi/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Keshav-aadhi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1447-simplified-fractions](https://github.com/Keshav-aadhi/Leetcode/tree/master/1447-simplified-fractions) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Keshav-aadhi/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Keshav-aadhi/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Keshav-aadhi/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Keshav-aadhi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav-aadhi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Keshav-aadhi/Leetcode/tree/master/0071-simplify-path) |
+| [1447-simplified-fractions](https://github.com/Keshav-aadhi/Leetcode/tree/master/1447-simplified-fractions) |
 | [1773-count-items-matching-a-rule](https://github.com/Keshav-aadhi/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Trie
 |  |
@@ -118,9 +120,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/Keshav-aadhi/Leetcode/tree/master/1447-simplified-fractions) |
 | [2413-smallest-even-multiple](https://github.com/Keshav-aadhi/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Keshav-aadhi/Leetcode/tree/master/0120-triangle) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Keshav-aadhi/Leetcode/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Keshav-aadhi/Leetcode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
