@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Keshav-aadhi/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Keshav-aadhi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Keshav-aadhi/Leetcode/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/Keshav-aadhi/Leetcode/tree/master/0120-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Keshav-aadhi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Keshav-aadhi/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1773-count-items-matching-a-rule](https://github.com/Keshav-aadhi/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Keshav-aadhi/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/Keshav-aadhi/Leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
