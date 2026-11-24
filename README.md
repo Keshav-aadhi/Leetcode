@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Keshav-aadhi/Leetcode/tree/master/0120-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Keshav-aadhi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Keshav-aadhi/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1514-path-with-maximum-probability](https://github.com/Keshav-aadhi/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1773-count-items-matching-a-rule](https://github.com/Keshav-aadhi/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Keshav-aadhi/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
@@ -169,16 +170,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Keshav-aadhi/Leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Keshav-aadhi/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Keshav-aadhi/Leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Keshav-aadhi/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Keshav-aadhi/Leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Keshav-aadhi/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Keshav-aadhi/Leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Keshav-aadhi/Leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
