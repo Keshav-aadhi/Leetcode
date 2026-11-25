@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Keshav-aadhi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Keshav-aadhi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Keshav-aadhi/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Keshav-aadhi/Leetcode/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keshav-aadhi/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Keshav-aadhi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1447-simplified-fractions](https://github.com/Keshav-aadhi/Leetcode/tree/master/1447-simplified-fractions) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Keshav-aadhi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Keshav-aadhi/Leetcode/tree/master/0120-triangle) |
 ## Euclidean Algorithm
 |  |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Keshav-aadhi/Leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Keshav-aadhi/Leetcode/tree/master/1514-path-with-maximum-probability) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Keshav-aadhi/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
